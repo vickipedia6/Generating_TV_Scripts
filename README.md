@@ -16,6 +16,32 @@ Just run the ipynb notebook. Tune the hyper parameters for better accuracy.
 * OpenCv
 * Pytorch 
 
+### Install
+
+1. Download the project materials from our GitHub repository. You can get download the repository with
+  ```
+  git clone https://github.com/vickipedia6/Generating_TV_Scripts.git
+  ```
+ 2. Download anaconda or miniconda based on the instructions in the [Anaconda documentation](https://docs.anaconda.com).
+ 
+ 3. Create a new conda environment:
+  ```
+  conda create --name deep-learning python=3
+  ```
+ 4. Enter your new environment:
+  * Mac/Linux: >> ``` source activate deep-learning ```
+  * Windows: >>  ```activate deep-learning ```
+  
+ 5. Ensure you have numpy, matplotlib, pandas, and jupyter notebook installed by doing the following:
+  ```
+  conda install numpy matplotlib pandas jupyter notebook
+  ```
+ 6. Run the following to open up the notebook server:
+  ```
+  jupyter notebook dlnd_tv_script_generation.ipynb
+  ```
+ 7. Execute all the cells in the code.
+ 
 ### Architecture
 
 * Tried both GRU and LSTM. LSTM performed better than GRU.
