@@ -5,6 +5,7 @@ This project was developed as a part of Udacity's Deep Learning Nanodegree. In t
 ## Getting Started
 
 Just run the ipynb notebook. Tune the hyper parameters for better accuracy.
+<img src='/seinfeld.jpg' width=500 px>
 
 ### Prerequisites
 
