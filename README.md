@@ -51,6 +51,70 @@ This project has met the following specifications:
 ###Model :
 Training loss: 3.32
 
+## Generated Script
+
+jerry:...
+
+elaine: what?
+
+jerry: i didn't know...
+
+george: well, you can have said hi.(to elaine) hey, hey, you know what?
+
+jerry: what are you talking about? i got a lot of money on the street.
+
+jerry: well.
+
+jerry: i can't.
+
+elaine: oh, no.
+
+newman: well i was thinking of the worst thing.
+
+kramer:(to jerry) you don't know what i mean.
+
+george: i don't know.
+
+kramer:(looking at the woman) oh yeah?
+
+george: yeah, but i don't think so!
+
+george: you don't have any idea.
+
+jerry: oh, i don't know. i just wanted you to know what it is.
+
+kramer: i thought they had the same time.
+
+jerry: well, i don't know if i can.
+
+elaine: i don't know. i don't want a.
+
+jerry:(to george) you know, you know, i think you could get it.
+
+george:(sarcastic) yeah, i think you may have been in.
+
+george: i know.
+
+jerry: i don't know.
+
+kramer: well, you can't.
+
+jerry:(to jerry) oh, hi, elaine.
+
+elaine:(to jerry) i don't know.. i don't know, jerry, i'm not gonna have this job. i don't want you to be in this relationship.
+
+elaine: oh yeah, that's right...(he exits)
+
+elaine:(looking at the box of paper) you see, you know, i don't have any idea, you should be ashamed of yourself.
+
+george: oh, no..
+
+jerry:(to george) you see, you're the guy.......
+
+jerry: yeah, i know...
+
+kramer:(to elaine) you know, you know what i mean,
+
 ## Built With
 
 * Python 3
