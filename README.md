@@ -11,9 +11,7 @@ Just run the ipynb notebook. Tune the hyper parameters for better accuracy.
 
 * Python 3
 * Numpy
-* Pandas
 * MatPlotLib
-* OpenCv
 * Pytorch 
 
 ### Install
